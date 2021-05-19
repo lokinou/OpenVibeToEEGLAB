@@ -1,0 +1,4 @@
+# ignore any eeg file
+*.gdf
+*.ov
+*.dat
