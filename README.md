@@ -1,8 +1,8 @@
-# Convert OpenVibe to EEGLab
+# Convert OpenVibe to EEGLab (SMR)
 
 Openvibe is great, EEGLAB is also great but it's not easy to get an OpenViBE file into EEGlab.
 
-Here is code to get started with your EEGLab analysis.
+Here is code to get started with your SMR EEGLab analysis.
 
 (Matlab is only required if you want to modify events)
 
