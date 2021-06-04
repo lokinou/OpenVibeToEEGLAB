@@ -1,18 +1,14 @@
 # Convert OpenVibe to EEGLab
 
-Openvibe is great, EEGLAB is also great but it's not easy to switch between them
+Openvibe is great, EEGLAB is also great but it's not easy to get an OpenViBE file into EEGlab.
+
+Here is code to get started with your EEGLab analysis.
 
 (Matlab is only required if you want to modify events)
 
 ## Openvibe to GDF 
 
-Convert the .ov file to .gdf using the scenario [openvibe_convert.xml](scripts/openvibe_convert.xml) from Openvibe. Make sure to change the path of input and output files by double clicking the boxes.
-
-Use the **fast-forward** option
-
-<img src="img/01-convert_to_gdf.png" alt="openvibe_to_gdf" style="zoom:66%;" />
-
-
+Please refer to my [conversion tutorial here](https://github.com/lokinou/openvibe_to_gdf_tutorial)
 
 ## Read GDF via EEGLAB
 
